@@ -119,7 +119,7 @@ EmployeeHub/
 
 When you run `python main.py`, you will be greeted by the login screen. Upon running the app for the very first time, an `admin` user is automatically generated in the database.
 
-**Default Admin Credentials:**
+**Default Admin Credentials:** 
 
 - **Username:** `admin`
 - **Password:** `admin123`
